@@ -1,9 +1,8 @@
-package Java.DataStructures.Easy;
+package ThirtyDaysOfCode.Day11;
 
 import java.util.Scanner;
 
-public class Java2DArray {
-
+public class Arrays2D {
     private static final Scanner scanner = new Scanner(System.in);
 
     public static void main(String[] args) {

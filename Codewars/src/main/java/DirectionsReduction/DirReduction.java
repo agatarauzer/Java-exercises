@@ -12,10 +12,7 @@ public class DirReduction {
         while (listSizeBefore != listSizeAfter) {
             listSizeBefore = list.size();
             for (int i = 0; i < list.size() - 1; i++) {
-                if (oneIsRedundant(list.get(i), list.get(i+1))) {
-                    list.remove(i+1);
-                }
-                else if (twoAreRedundant(list.get(i), list.get(i+1))) {
+                if (areRedundant(list.get(i), list.get(i+1))) {
                     list.remove(i+1);
                     list.remove(i);
                 }
@@ -27,14 +24,7 @@ public class DirReduction {
         return result;
     }
 
-    private static boolean oneIsRedundant(String dir1, String dir2) {
-        if (dir1.equals(dir2)) {
-            return true;
-        }
-        return false;
-    }
-
-    private static boolean twoAreRedundant(String dir1, String dir2) {
+    private static boolean areRedundant(String dir1, String dir2) {
         if (dir1.equals("NORTH") && dir2.equals("SOUTH")) {
             return true;
         }

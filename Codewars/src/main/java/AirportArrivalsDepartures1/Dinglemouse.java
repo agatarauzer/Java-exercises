@@ -13,12 +13,7 @@ public class Dinglemouse {
 
             for (int j = 0; j < lines[i].length(); j++) {
                 char ch = lines[i].charAt(j);
-                int indexInAlphabet = 0;
-                for (int k = 0; k < ALPHABET.length(); k++) {
-                    if (ch == ALPHABET.charAt(k)){
-                        indexInAlphabet = k;
-                    }
-                }
+                int indexInAlphabet = ALPHABET.indexOf(ch);
                 rotorSum += rotors[i][j];
                 int rotorFinal = 0;
                 if (rotorSum > ALPHABET.length() - indexInAlphabet) {

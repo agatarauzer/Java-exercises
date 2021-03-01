@@ -35,7 +35,7 @@
 - [Sum of Numbers](https://github.com/agatarauzer/Java-exercises/blob/master/Codewars/src/main/java/SumOfNumbers/Sum.java)
 
 
-##HACKERRANK
+## HACKERRANK
 
 ##### Introduction
 - [Datatypes](https://github.com/agatarauzer/Java-exercises/blob/master/Hackerrank/src/main/java/Java/Introduction/Easy/Datatypes.java)

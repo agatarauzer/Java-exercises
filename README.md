@@ -49,6 +49,8 @@
 - [Java String reverse](https://github.com/agatarauzer/Java-exercises/blob/master/Hackerrank/src/main/java/Java/Strings/Easy/JavaStringReverse.java)
 - [String introduction](https://github.com/agatarauzer/Java-exercises/blob/master/Hackerrank/src/main/java/Java/Strings/Easy/StringsIntroduction.java)
 - [Substring](https://github.com/agatarauzer/Java-exercises/blob/master/Hackerrank/src/main/java/Java/Strings/Easy/Substring.java)
+- [Java String Tokens](https://github.com/agatarauzer/Java-exercises/blob/master/Hackerrank/src/main/java/Java/Strings/Easy/JavaStringTokens.java)
+- [Java Regex](https://github.com/agatarauzer/Java-exercises/blob/master/Hackerrank/src/main/java/Java/Strings/Medium/Solution.java)
 
 ##### Data Structures
 - [Java 1D array](https://github.com/agatarauzer/Java-exercises/blob/master/Hackerrank/src/main/java/Java/DataStructures/Easy/Java1DArray.java)
@@ -82,11 +84,7 @@
 - [Day 21 : Printer](https://github.com/agatarauzer/Java-exercises/tree/master/Hackerrank/src/main/java/ThirtyDaysOfCode/Day21)
 - [Day 22 : Binary Search Trees](https://github.com/agatarauzer/Java-exercises/tree/master/Hackerrank/src/main/java/ThirtyDaysOfCode/Day22/BinarySearchTrees)
 - [Day 23 : BST level-order traversal](https://github.com/agatarauzer/Java-exercises/tree/master/Hackerrank/src/main/java/ThirtyDaysOfCode/Day23)
+- [Day 24 : More Linked Lists](https://github.com/agatarauzer/Java-exercises/blob/master/Hackerrank/src/main/java/ThirtyDaysOfCode/Day24/Solution.java)
+- [Day 25 : Running Time and Complexity](https://github.com/agatarauzer/Java-exercises/blob/master/Hackerrank/src/main/java/ThirtyDaysOfCode/Day25/Solution.java)
+- [Day 26 : Nested Logic](https://github.com/agatarauzer/Java-exercises/blob/master/Hackerrank/src/main/java/ThirtyDaysOfCode/Day26/Solution.java)  
 - [Day 27 : Testing](https://github.com/agatarauzer/Java-exercises/blob/master/Hackerrank/src/main/java/ThirtyDaysOfCode/Day27/Solution.java)
-
-
-
-
-
-
-

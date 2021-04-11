@@ -3,9 +3,8 @@
 - [Hackerrank](#hackerrank)
 - others
 
-## CODEWARS
+## CODEWARS       ![alt text](https://www.codewars.com/users/galapagos/badges/micro)
 
-![alt text](https://www.codewars.com/users/galapagos/badges/micro)
 ##### 5kyu
 
 - [Matching And Substituting](https://github.com/agatarauzer/Java-exercises/blob/master/Codewars/src/main/java/MatchingAndSubstituting/MatchSubst.java)

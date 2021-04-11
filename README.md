@@ -5,6 +5,7 @@
 
 ## CODEWARS
 
+![alt text](https://www.codewars.com/users/galapagos/badges/micro)
 ##### 5kyu
 
 - [Matching And Substituting](https://github.com/agatarauzer/Java-exercises/blob/master/Codewars/src/main/java/MatchingAndSubstituting/MatchSubst.java)
@@ -51,10 +52,14 @@
 - [Substring](https://github.com/agatarauzer/Java-exercises/blob/master/Hackerrank/src/main/java/Java/Strings/Easy/Substring.java)
 - [Java String Tokens](https://github.com/agatarauzer/Java-exercises/blob/master/Hackerrank/src/main/java/Java/Strings/Easy/JavaStringTokens.java)
 - [Java Regex](https://github.com/agatarauzer/Java-exercises/blob/master/Hackerrank/src/main/java/Java/Strings/Medium/Solution.java)
-
+- [Pattern Syntax Checker](https://github.com/agatarauzer/Java-exercises/blob/master/Hackerrank/src/main/java/Java/Strings/Easy/PatternSyntaxChecker.java)
+- [Valid Username Regular Expression](https://github.com/agatarauzer/Java-exercises/blob/master/Hackerrank/src/main/java/Java/Strings/Easy/ValidUsernameRegularExpression.java)
 ##### Data Structures
 - [Java 1D array](https://github.com/agatarauzer/Java-exercises/blob/master/Hackerrank/src/main/java/Java/DataStructures/Easy/Java1DArray.java)
 - [Java 2D array](https://github.com/agatarauzer/Java-exercises/blob/master/Hackerrank/src/main/java/Java/DataStructures/Easy/Java2DArray.java)
+- [Java Array List](https://github.com/agatarauzer/Java-exercises/blob/master/Hackerrank/src/main/java/Java/DataStructures/Easy/JavaArraylist.java)
+- [Java List](https://github.com/agatarauzer/Java-exercises/blob/master/Hackerrank/src/main/java/Java/DataStructures/Easy/JavaList.java)
+- [Java Subarray](https://github.com/agatarauzer/Java-exercises/blob/master/Hackerrank/src/main/java/Java/DataStructures/Easy/JavaSubarray.java)
 
 ##### BigNumber
 - [Java BigInteger](https://github.com/agatarauzer/Java-exercises/blob/master/Hackerrank/src/main/java/Java/BigNumber/Easy/JavaBigInteger.java)

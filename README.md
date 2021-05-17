@@ -13,6 +13,7 @@
 - [Directions Reduction](https://github.com/agatarauzer/Java-exercises/blob/master/Codewars/src/main/java/DirectionsReduction/DirReduction.java)
 - [Simple Pig Latin](https://github.com/agatarauzer/Java-exercises/blob/master/Codewars/src/main/java/SimplePigLatin/PigLatin.java)
 
+
 ##### 6 kyu
 - [Easy Balance Checking](https://github.com/agatarauzer/Java-exercises/blob/master/Codewars/src/main/java/EasyBalanceChecking/EasyBal.java)
 - [Dashatize it](https://github.com/agatarauzer/Java-exercises/blob/master/Codewars/src/main/java/DashatizeIt/Solution.java) 
@@ -27,6 +28,8 @@
 - [Are they the "same"?](https://github.com/agatarauzer/Java-exercises/blob/master/Codewars/src/main/java/AreTheyTheSame/AreSame.java)
 - [Two Sum](https://github.com/agatarauzer/Java-exercises/blob/master/Codewars/src/main/java/TwoSum/Solution.java)
 - [Who likes it?](https://github.com/agatarauzer/Java-exercises/blob/master/Codewars/src/main/java/WhoLikesIt/Solution.java)
+- [Which are in?](https://github.com/agatarauzer/Java-exercises/tree/master/Codewars/src/main/java/WhichAreIn)
+- [CreatePhoneNumber](https://github.com/agatarauzer/Java-exercises/blob/master/Codewars/src/main/java/CreatePhoneNumber/Kata.java)
 
 ##### 7kyu
 - [Credit Card Mask](https://github.com/agatarauzer/Java-exercises/blob/master/Codewars/src/main/java/CreditCardMask/Maskify.java)

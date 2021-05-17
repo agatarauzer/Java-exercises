@@ -1,4 +1,4 @@
-###### My solutions to various exercises:
+###### My solutions to various Java exercises:
 - [Codewars](#codewars) 
 - [Hackerrank](#hackerrank)
 - others
@@ -92,3 +92,4 @@
 - [Day 25 : Running Time and Complexity](https://github.com/agatarauzer/Java-exercises/blob/master/Hackerrank/src/main/java/ThirtyDaysOfCode/Day25/Solution.java)
 - [Day 26 : Nested Logic](https://github.com/agatarauzer/Java-exercises/blob/master/Hackerrank/src/main/java/ThirtyDaysOfCode/Day26/Solution.java)  
 - [Day 27 : Testing](https://github.com/agatarauzer/Java-exercises/blob/master/Hackerrank/src/main/java/ThirtyDaysOfCode/Day27/Solution.java)
+- [Day 28 : Regex, Patterns and Intro to Databases](https://github.com/agatarauzer/Java-exercises/blob/master/Hackerrank/src/main/java/ThirtyDaysOfCode/Day28/Solution.java)

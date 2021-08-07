@@ -12,7 +12,8 @@
 - [Airport Arrivals/Departures - #1](https://github.com/agatarauzer/Java-exercises/blob/master/Codewars/src/main/java/AirportArrivalsDepartures1/Dinglemouse.java) 
 - [Directions Reduction](https://github.com/agatarauzer/Java-exercises/blob/master/Codewars/src/main/java/DirectionsReduction/DirReduction.java)
 - [Simple Pig Latin](https://github.com/agatarauzer/Java-exercises/blob/master/Codewars/src/main/java/SimplePigLatin/PigLatin.java)
-
+- [Greed is Good](https://github.com/agatarauzer/Java-exercises/blob/master/Codewars/src/main/java/GreedIsGood/Greed.java)
+- [Can you get the loop ?](https://github.com/agatarauzer/Java-exercises/blob/master/Codewars/src/main/java/CanYouGetTheLoop/LoopInspector.java)
 
 ##### 6 kyu
 - [Easy Balance Checking](https://github.com/agatarauzer/Java-exercises/blob/master/Codewars/src/main/java/EasyBalanceChecking/EasyBal.java)
@@ -29,7 +30,9 @@
 - [Two Sum](https://github.com/agatarauzer/Java-exercises/blob/master/Codewars/src/main/java/TwoSum/Solution.java)
 - [Who likes it?](https://github.com/agatarauzer/Java-exercises/blob/master/Codewars/src/main/java/WhoLikesIt/Solution.java)
 - [Which are in?](https://github.com/agatarauzer/Java-exercises/tree/master/Codewars/src/main/java/WhichAreIn)
-- [CreatePhoneNumber](https://github.com/agatarauzer/Java-exercises/blob/master/Codewars/src/main/java/CreatePhoneNumber/Kata.java)
+- [Create Phone Number](https://github.com/agatarauzer/Java-exercises/blob/master/Codewars/src/main/java/CreatePhoneNumber/Kata.java)
+- [VIN Checker](https://github.com/agatarauzer/Java-exercises/blob/master/Codewars/src/main/java/VINChecker/CodeWars.java)
+- [Counting Duplicates](https://github.com/agatarauzer/Java-exercises/blob/master/Codewars/src/main/java/CountingDuplicates/CountingDuplicates.java)
 
 ##### 7kyu
 - [Credit Card Mask](https://github.com/agatarauzer/Java-exercises/blob/master/Codewars/src/main/java/CreditCardMask/Maskify.java)

@@ -1,4 +1,4 @@
-package Java.Strings.Medium;
+package Java.Strings.Medium.JavaRegex;
 
 import java.util.Scanner;
 

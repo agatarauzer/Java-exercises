@@ -14,6 +14,9 @@
 - [Simple Pig Latin](https://github.com/agatarauzer/Java-exercises/blob/master/Codewars/src/main/java/SimplePigLatin/PigLatin.java)
 - [Greed is Good](https://github.com/agatarauzer/Java-exercises/blob/master/Codewars/src/main/java/GreedIsGood/Greed.java)
 - [Can you get the loop ?](https://github.com/agatarauzer/Java-exercises/blob/master/Codewars/src/main/java/CanYouGetTheLoop/LoopInspector.java)
+- [Scramblies](https://github.com/agatarauzer/Java-exercises/blob/master/Codewars/src/main/java/Scramblies/Scramblies.java)
+- [Convert A Hex String To RGB](https://github.com/agatarauzer/Java-exercises/blob/master/Codewars/src/main/java/ConvertHexStringToRGB/HexToRGB.java)
+
 
 ##### 6 kyu
 - [Easy Balance Checking](https://github.com/agatarauzer/Java-exercises/blob/master/Codewars/src/main/java/EasyBalanceChecking/EasyBal.java)
@@ -33,6 +36,9 @@
 - [Create Phone Number](https://github.com/agatarauzer/Java-exercises/blob/master/Codewars/src/main/java/CreatePhoneNumber/Kata.java)
 - [VIN Checker](https://github.com/agatarauzer/Java-exercises/blob/master/Codewars/src/main/java/VINChecker/CodeWars.java)
 - [Counting Duplicates](https://github.com/agatarauzer/Java-exercises/blob/master/Codewars/src/main/java/CountingDuplicates/CountingDuplicates.java)
+- [Highest Scoring Word](https://github.com/agatarauzer/Java-exercises/blob/master/Codewars/src/main/java/HighestScoringWord/Kata.java)
+- [Bouncing Balls](https://github.com/agatarauzer/Java-exercises/blob/master/Codewars/src/main/java/BouncingBalls/BouncingBall.java)
+
 
 ##### 7kyu
 - [Credit Card Mask](https://github.com/agatarauzer/Java-exercises/blob/master/Codewars/src/main/java/CreditCardMask/Maskify.java)
@@ -60,11 +66,37 @@
 - [Pattern Syntax Checker](https://github.com/agatarauzer/Java-exercises/blob/master/Hackerrank/src/main/java/Java/Strings/Easy/PatternSyntaxChecker.java)
 - [Valid Username Regular Expression](https://github.com/agatarauzer/Java-exercises/blob/master/Hackerrank/src/main/java/Java/Strings/Easy/ValidUsernameRegularExpression.java)
 ##### Data Structures
+_Arrays_
 - [Java 1D array](https://github.com/agatarauzer/Java-exercises/blob/master/Hackerrank/src/main/java/Java/DataStructures/Easy/Java1DArray.java)
 - [Java 2D array](https://github.com/agatarauzer/Java-exercises/blob/master/Hackerrank/src/main/java/Java/DataStructures/Easy/Java2DArray.java)
+- [Java Subarray](https://github.com/agatarauzer/Java-exercises/blob/master/Hackerrank/src/main/java/Java/DataStructures/Easy/JavaSubarray.java)
+- [Arrays - DS](https://github.com/agatarauzer/Java-exercises/blob/master/Hackerrank/src/main/java/Java/DataStructures/Easy/ArraysDS/Result.java)
+- [2D Array - DS](https://github.com/agatarauzer/Java-exercises/blob/master/Hackerrank/src/main/java/Java/DataStructures/Easy/Arrays2D/Result.java)
+- [Sparse Arrays](https://github.com/agatarauzer/Java-exercises/blob/master/Hackerrank/src/main/java/Java/DataStructures/Medium/SparseArrays/Result.java)
+- [Left Rotation](https://github.com/agatarauzer/Java-exercises/blob/master/Hackerrank/src/main/java/Java/DataStructures/Easy/LeftRotation/Result.java)
+
+_Linked Lists_
+- [Insert a Node at the Head of a Linked List](https://github.com/agatarauzer/Java-exercises/blob/master/Hackerrank/src/main/java/Java/DataStructures/Easy/InsertANodeAtTheHeadOfALinkedList/Solution.java)
+- [Insert a Node at the Tail of a Linked List](https://github.com/agatarauzer/Java-exercises/blob/master/Hackerrank/src/main/java/Java/DataStructures/Easy/InsertANodeAtTheTailOfLinkedList/Solution.java)
+- [Print the Elements of a Linked List](https://github.com/agatarauzer/Java-exercises/blob/master/Hackerrank/src/main/java/Java/DataStructures/Easy/PrintTheElementsOfALinkedList/Solution.java)
+
+_Trees_
+- [Tree: Preorder Traversal](https://github.com/agatarauzer/Java-exercises/blob/master/Hackerrank/src/main/java/Java/DataStructures/Easy/TreePreorderTraversal/Solution.java)
+- [Tree: Postorder Traversal](https://github.com/agatarauzer/Java-exercises/blob/master/Hackerrank/src/main/java/Java/DataStructures/Easy/TreePostorderTraversal/Solution.java)
+- [Tree: Inorder Traversal](https://github.com/agatarauzer/Java-exercises/blob/master/Hackerrank/src/main/java/Java/DataStructures/Easy/TreeInorderTraversal/Solution.java)
+- [Tree: Height of a Binary Tree](https://github.com/agatarauzer/Java-exercises/blob/master/Hackerrank/src/main/java/Java/DataStructures/Easy/TreeHeightOfABinaryTree/Solution.java)
+
+_Array Lists_
 - [Java Array List](https://github.com/agatarauzer/Java-exercises/blob/master/Hackerrank/src/main/java/Java/DataStructures/Easy/JavaArraylist.java)
 - [Java List](https://github.com/agatarauzer/Java-exercises/blob/master/Hackerrank/src/main/java/Java/DataStructures/Easy/JavaList.java)
-- [Java Subarray](https://github.com/agatarauzer/Java-exercises/blob/master/Hackerrank/src/main/java/Java/DataStructures/Easy/JavaSubarray.java)
+
+_Maps_
+- [Java Map](https://github.com/agatarauzer/Java-exercises/blob/master/Hackerrank/src/main/java/Java/DataStructures/Easy/JavaMap/Solution.java)
+
+_Sets_
+- [Java Hashset](https://github.com/agatarauzer/Java-exercises/blob/master/Hackerrank/src/main/java/Java/DataStructures/Easy/JavaHashset/Solution.java)
+
+
 
 ##### BigNumber
 - [Java BigInteger](https://github.com/agatarauzer/Java-exercises/blob/master/Hackerrank/src/main/java/Java/BigNumber/Easy/JavaBigInteger.java)

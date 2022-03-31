@@ -1,0 +1,36 @@
+class PhoneDir {
+    
+    public static  String phone(String strng, String num) {
+     
+      String[] lines = strng.split("\\r?\\n");
+      String searchedLine = "";
+      
+      int counterOfPeople = 0;
+      for (String line : lines) {
+        if (line.contains("+"+num)) {
+          searchedLine = line;
+          counterOfPeople++;
+        }
+      }
+      
+      if (searchedLine.equals("")) {
+        return "Error => Not found: " + num;
+      }
+      
+      if (counterOfPeople > 1) {
+        return "Error => Too many people: " + num;
+      }
+      
+      searchedLine = searchedLine.replace("+" + num, "");
+
+      int indexOfNameStart = searchedLine.indexOf("<");
+      int indexOfNameEnd = searchedLine.indexOf(">");
+      String name = searchedLine.substring(indexOfNameStart + 1, indexOfNameEnd);
+      searchedLine = searchedLine.replace("<"+name+">", "");
+     
+      String adress = searchedLine.replaceAll("[^A-Za-z0-9.\\- ]", " ");
+      adress = adress.replaceAll("\\s+", " ").trim();
+
+      return "Phone => " + num + ", Name => " + name + ", Address => " + adress;   
+    }
+}

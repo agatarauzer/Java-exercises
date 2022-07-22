@@ -5,8 +5,17 @@
 
 ## CODEWARS       ![alt text](https://www.codewars.com/users/galapagos/badges/micro)
 
-##### 5kyu
+##### 4kyu
+- [Sudoku Solution Validator](https://github.com/agatarauzer/Java-exercises/blob/master/Codewars/src/main/java/SudokuSolutionValidator/SudokuValidator.java)
 
+
+##### 5kyu
+- [Phone Directory](https://github.com/agatarauzer/Java-exercises/blob/master/Codewars/src/main/java/PhoneDirectory/PhoneDir)
+- [Pagination Helper](https://github.com/agatarauzer/Java-exercises/blob/master/Codewars/src/main/java/PaginationHelper/PaginationHelper.java)
+- [Number of trailing zeros of N!](https://github.com/agatarauzer/Java-exercises/blob/master/Codewars/src/main/java/NumberOfTrailingZerosOfN!/Solution.java)
+- [Human Readable Time](https://github.com/agatarauzer/Java-exercises/blob/master/Codewars/src/main/java/HumanReadableTime/HumanReadableTime.java)
+- [Not very secure](https://github.com/agatarauzer/Java-exercises/blob/master/Codewars/src/main/java/NotVerySecure/NotVerySecure.java)
+- [Pick peaks](https://github.com/agatarauzer/Java-exercises/blob/master/Codewars/src/main/java/PickPeaks/PickPeaks.java)
 - [Matching And Substituting](https://github.com/agatarauzer/Java-exercises/blob/master/Codewars/src/main/java/MatchingAndSubstituting/MatchSubst.java)
 - [Largest Difference in Increasing Indexes](https://github.com/agatarauzer/Java-exercises/blob/master/Codewars/src/main/java/LargestDifferenceInIncreasingIndexes/LargestDifference.java)
 - [Airport Arrivals/Departures - #1](https://github.com/agatarauzer/Java-exercises/blob/master/Codewars/src/main/java/AirportArrivalsDepartures1/Dinglemouse.java) 
@@ -19,6 +28,9 @@
 
 
 ##### 6 kyu
+- [Playing with passphrases](https://github.com/agatarauzer/Java-exercises/blob/master/Codewars/src/main/java/PlayingWithPassphrases/PlayPass.java)
+- [Detect pangram](https://github.com/agatarauzer/Java-exercises/blob/master/Codewars/src/main/java/Detect%20Pangram/PangramChecker.java)
+- [Take a ten minutes walk](https://github.com/agatarauzer/Java-exercises/blob/master/Codewars/src/main/java/TakeATenMinutesWalk/TenMinWalk.java)
 - [Easy Balance Checking](https://github.com/agatarauzer/Java-exercises/blob/master/Codewars/src/main/java/EasyBalanceChecking/EasyBal.java)
 - [Dashatize it](https://github.com/agatarauzer/Java-exercises/blob/master/Codewars/src/main/java/DashatizeIt/Solution.java) 
 - [Split Strings](https://github.com/agatarauzer/Java-exercises/blob/master/Codewars/src/main/java/SplitStrings/StringSplit.java)

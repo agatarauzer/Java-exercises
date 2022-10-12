@@ -28,6 +28,14 @@
 
 
 ##### 6 kyu
+- [Multiples of 3 or 5](https://github.com/agatarauzer/Java-exercises/blob/master/Codewars/src/main/java/MultiplesOf3Or5/Solution.java)
+- [Sum of Digits/ Digital Root](https://github.com/agatarauzer/Java-exercises/blob/master/Codewars/src/main/java/SumOfDigits/DRoot.java)
+- [Bit Counting](https://github.com/agatarauzer/Java-exercises/blob/master/Codewars/src/main/java/BitCounting/BitCounting.java)
+- [Persistent Bugger](https://github.com/agatarauzer/Java-exercises/blob/master/Codewars/src/main/java/PersistentBugger/Persist.java)
+- [Array.diff](https://github.com/agatarauzer/Java-exercises/blob/master/Codewars/src/main/java/Array.diff/Kata.java)
+- [Duplicate Encoder](https://github.com/agatarauzer/Java-exercises/blob/master/Codewars/src/main/java/Duplicate%20Encoder/DuplicateEncoder.java)
+- [Equal Sides Of An Array](https://github.com/agatarauzer/Java-exercises/blob/master/Codewars/src/main/java/EqualsSidesOfAnArray/Kata.java)
+- [Build Tower](https://github.com/agatarauzer/Java-exercises/blob/master/Codewars/src/main/java/BuildTower/Kata.java)
 - [Playing with passphrases](https://github.com/agatarauzer/Java-exercises/blob/master/Codewars/src/main/java/PlayingWithPassphrases/PlayPass.java)
 - [Detect pangram](https://github.com/agatarauzer/Java-exercises/blob/master/Codewars/src/main/java/Detect%20Pangram/PangramChecker.java)
 - [Take a ten minutes walk](https://github.com/agatarauzer/Java-exercises/blob/master/Codewars/src/main/java/TakeATenMinutesWalk/TenMinWalk.java)
@@ -53,6 +61,9 @@
 
 
 ##### 7kyu
+- [Shortest Word](https://github.com/agatarauzer/Java-exercises/blob/master/Codewars/src/main/java/PrinterErrors/Printer.java)
+- [Two To One](https://github.com/agatarauzer/Java-exercises/blob/master/Codewars/src/main/java/PrinterErrors/Printer.java)
+- [Printer Errors](https://github.com/agatarauzer/Java-exercises/blob/master/Codewars/src/main/java/PrinterErrors/Printer.java)
 - [Credit Card Mask](https://github.com/agatarauzer/Java-exercises/blob/master/Codewars/src/main/java/CreditCardMask/Maskify.java)
 - [Get the Middle Character](https://github.com/agatarauzer/Java-exercises/blob/master/Codewars/src/main/java/GetTheMiddleCharacter/Kata.java)
 - [Exes and Ohs](https://github.com/agatarauzer/Java-exercises/blob/master/Codewars/src/main/java/ExesAndOhs/XO.java)
